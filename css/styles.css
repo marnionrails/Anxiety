@@ -4,11 +4,12 @@
 
 body {
   background-color: rgb(186, 238, 186);
+  font-style: Arial;
 }
 
 h1 {
   font-size: 3em;
-  text-align: center
+  text-align: center;
 }
 
 h2 {
@@ -21,12 +22,16 @@ p {
   text-align: center;
 }
 
-.anxiety-list ol li {
+.anxiety-list ol {
   font-size: 2em;
   margin-top: 50px;
   margin-left: 200px;
   margin-bottom: 20px;
   
+}
+
+.anxiety-list ol li ul {
+  font-size: .8em;
 }
 
 .summary {
@@ -36,4 +41,9 @@ p {
   border: 3px solid green;
   margin-top: 30px;
   margin-right: 200px;
+}
+
+.get-help {
+  color: rgb(194, 2, 34);
+  ;
 }
