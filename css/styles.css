@@ -30,6 +30,12 @@ p {
   
 }
 
+.numbers {
+  font-size: 2em;
+  margin-top: 20px;
+  margin-left: 200px;
+}
+
 .anxiety-list ol li ul {
   font-size: .8em;
 }
@@ -45,5 +51,8 @@ p {
 
 .get-help {
   color: rgb(194, 2, 34);
-  ;
+}
+
+.numbers p {
+  color: rgb(194, 2, 34);
 }
