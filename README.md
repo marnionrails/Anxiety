@@ -10,7 +10,7 @@ This site helps the user determine if they have anxiety by listing common signs 
 ## Setup Instructions
 
 * Go to web browser
-* Type in: https://marnionrails.github.io/portfolio/
+* Type in: https://marnionrails.github.io/Anxiety/
 
 ## Technologies Used
 
